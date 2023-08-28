@@ -6,7 +6,7 @@ In today’s high speed life, traffic congestion becomes a serious issue in our 
 The objectives of this projects are 
 1) To detect the vehicle approaching on a certain road using an IR sensor
 2) To avoid road accidents.
-3) 
+  
 The system consist of density based IR sensors which detect vehicle on particular flank according to number of vehicles passing through the assigned section of the road. There are four sensors placed on four sides of a four way. IR sensors contain IR transmitter and IR receiver in itself. As the vehicle passes through these IR sensors, the  IR  sensor  will  detect  the  vehicle  &  will  send  the information  to  the  Arduino. The Arduino will count the number of vehicles and provide the glowing time to LED according to the density of vehicle.
 The system works on following three conditions.
 
